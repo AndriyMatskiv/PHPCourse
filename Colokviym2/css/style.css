@@ -1,0 +1,35 @@
+/* Основні налаштування */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+nav a {
+    text-decoration: none;
+    color: #2c3e50;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+nav a:hover {
+    color: #e74c3c;
+    text-decoration: underline;
+}
+
+.card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 15px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    max-width: 400px;
+}
+
+footer {
+    margin-top: 40px;
+    color: #777;
+    font-size: 0.9em;
+}
